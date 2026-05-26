@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderprocess",
+        "uuid": 6881462,
+        "checksum": "tbvkfw"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
